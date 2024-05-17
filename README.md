@@ -11,4 +11,4 @@ usahain sesuai sama yang di tutorial biar gak pusing
 2 <!-- change x to y --!> 
 tandanya kamu perlu ganti x ke y
 
-kalau pusing tanyaa aku aja yaaa
+kalau pusing tanyaa aja
